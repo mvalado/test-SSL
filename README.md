@@ -1,7 +1,7 @@
 # test-SSL
 SSL test running with simulator for the 1st urucup. Competition of SSL in UTEC (Riveira - Uruguay, 2023)
 
-code maked by group 4 - known by muletabots
+code maked by group 4 (kown as muletabots) which won third place
 
 
 # grsim_ros_bridge installation:
